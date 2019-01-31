@@ -1,4 +1,4 @@
-def Wingardium_leviosa = 100
+def Wingardium_leviosa 
   
  7.times do 
  puts "Wingardium Leviosa"
